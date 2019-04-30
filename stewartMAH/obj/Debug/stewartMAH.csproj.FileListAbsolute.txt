@@ -1,0 +1,10 @@
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\bin\Debug\stewartMAH.exe.config
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\bin\Debug\stewartMAH.exe
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\bin\Debug\stewartMAH.pdb
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.Form1.resources
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.Properties.Resources.resources
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.exe
+C:\Users\Костя\source\repos\stewartMAH\stewartMAH\obj\Debug\stewartMAH.pdb
